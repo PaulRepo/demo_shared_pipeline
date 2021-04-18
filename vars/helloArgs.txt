@@ -1,0 +1,2 @@
+Prints "hello <name-passed-as-argument>"
+This script also defines 2nd function which can be invoked in Jenkinsfile
