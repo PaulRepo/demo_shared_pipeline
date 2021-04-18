@@ -1,0 +1,2 @@
+This script will take out the complete pipeline code from the application code.
+In application code jenkinsfile we only have to declare a reference of this shared library
